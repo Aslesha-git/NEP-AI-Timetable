@@ -1,3 +1,4 @@
+
 # NEP AI Timetable
 
 ## Project Overview
@@ -71,3 +72,4 @@ The project is developed using the following technologies:
 
 **Aslesha**
 GitHub: https://github.com/Aslesha-git
+
